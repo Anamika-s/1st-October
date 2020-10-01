@@ -1,0 +1,111 @@
+  Language  :  Means of communication which two people can understand , Eng , Hindi
+
+
+ p1 LANGUAGE  p2
+
+ Programming Language : two parties , computer and human being can commincate with
+
+ C C++ Java C# Python PHP
+
+
+ Machine understands which language : Binary 0101010
+
+eng   french
+C  C++ Java Python
+
+ Transalator  > Compiler , Interpreter
+
+Binary 
+
+
+Program : All Instructions / statements 
+
+
+
+
+
+   Compilation > 
+
+  C / C++ / Java >    compiler/interpreter  > Binary Form   
+
+ Source Code			Object Code
+
+
+  What is the idea behind DotNet Framework?
+
+   DOS  OS > Command Line 
+
+   Windows OS  > GUI
+
+
+
+ C C++ Basic COBOL > Commad Line inetrafce
+
+ Visual Basic
+ Visual C++
+
+
+  DotNet Framework
+
+  VB 
+  VC++         MSIL (Microsoft Intermediate Language)  Binary Form
+  C#  
+
+Compilation happens in 2 steps
+
+
+ JVM in Java :  Run Time Environment
+
+ CLR : Common Language Runtime : For DotNet Programs
+
+        CLR 
+         Program compilation
+         Garbage Collection
+
+
+
+
+         Type Safety
+   
+
+ 
+
+
+
+
+
+
+
+ Git commands
+
+git init
+
+git add .
+
+git commit -m "Initial"
+
+git remote add origin https://github.com/Anamika-s/new-doc.git
+
+
+git push -u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
